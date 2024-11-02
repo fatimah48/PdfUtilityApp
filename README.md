@@ -22,3 +22,7 @@ pdf2docx, pandas: PDF to Excel/Word conversions
 Pillow (PIL): Image handling for conversions
 pdfplumber, fitz (PyMuPDF): PDF handling and manipulation
 reportlab, Aspose.PDF: PDF creation and conversion support
+
+Application Interface
+
+![image](https://github.com/user-attachments/assets/147ae0b3-c957-4497-af45-438a7d7d1ba6)
